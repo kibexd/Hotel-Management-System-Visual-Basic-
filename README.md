@@ -6,6 +6,8 @@ I completed a database project that was intended to be a database management sys
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/hotel-management-system)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/hotel-management-system)
 
+![Screenshot](https://raw.githubusercontent.com/kibexd/Hotel-Management-System-Visual-Basic-/main/Screenshot%202023-09-15%20210007.png)
+
 This is a hotel management system created using Visual Basic and designed to work with Microsoft Visual Basic 2010 Express.
 
 ## Installation

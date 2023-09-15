@@ -1,0 +1,162 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.exe
+G:\HBRS\HBRS\bin\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.pdb
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.xml
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\Users\dell\Videos\vb.net oroject\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.pdb
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.xml
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\Silviah\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.AssemblyReference.cache
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.cache
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.CoreCompileInputs.cache
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+C:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe.config
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.pdb
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.xml
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+D:\KIBE\Silviah\Ek\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+C:\Users\nocki\OneDrive\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe.config
+C:\Users\nocki\OneDrive\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\nocki\OneDrive\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\nocki\OneDrive\Documents\hotel_mgmt_sys (2)\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb

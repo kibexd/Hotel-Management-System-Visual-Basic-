@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB787F79-004F-4CD6-830C-C690F8980452}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HBRS.My.MyApplication</StartupObject>
+    <RootNamespace>HBRS</RootNamespace>
+    <AssemblyName>HBRS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HBRS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HBRS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCheckin.Designer.vb">
+      <DependentUpon>frmCheckin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckinList.Designer.vb">
+      <DependentUpon>frmCheckinList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckinList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckinListMonitor.Designer.vb">
+      <DependentUpon>frmCheckinListMonitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckinListMonitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckout.Designer.vb">
+      <DependentUpon>frmCheckout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckOutList.Designer.vb">
+      <DependentUpon>frmCheckOutList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckOutList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiscount.Designer.vb">
+      <DependentUpon>frmDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuest.Designer.vb">
+      <DependentUpon>frmGuest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReserve.Designer.vb">
+      <DependentUpon>frmReserve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReserve.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReserveListMonitor.Designer.vb">
+      <DependentUpon>frmReserveListMonitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReserveListMonitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoom.Designer.vb">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomListMonitor.Designer.vb">
+      <DependentUpon>frmRoomListMonitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomListMonitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectGuest.Designer.vb">
+      <DependentUpon>frmSelectGuest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectGuest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectRoom.Designer.vb">
+      <DependentUpon>frmSelectRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="module.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCheckin.resx">
+      <DependentUpon>frmCheckin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckinList.resx">
+      <DependentUpon>frmCheckinList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckinListMonitor.resx">
+      <DependentUpon>frmCheckinListMonitor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckout.resx">
+      <DependentUpon>frmCheckout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckOutList.resx">
+      <DependentUpon>frmCheckOutList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiscount.resx">
+      <DependentUpon>frmDiscount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuest.resx">
+      <DependentUpon>frmGuest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReserve.resx">
+      <DependentUpon>frmReserve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReserveListMonitor.resx">
+      <DependentUpon>frmReserveListMonitor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoom.resx">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomListMonitor.resx">
+      <DependentUpon>frmRoomListMonitor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectGuest.resx">
+      <DependentUpon>frmSelectGuest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectRoom.resx">
+      <DependentUpon>frmSelectRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-in-desk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\living-room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-regular-36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out-circle-solid-36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\santorini_hotel-wallpaper-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5110947.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8209373.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

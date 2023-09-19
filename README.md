@@ -16,7 +16,7 @@ This is a hotel management system created using Visual Basic and designed to wor
 
 To get started, simply download the project folder [here](https://github.com/kibexd/Hotel-Management-System-Visual-Basic-/archive/refs/heads/main.zip).
 
-If, for any reason the download button doesn't work, you can still clone the repository using the normal method. Once you have the project on your local machine, navigate to the hotel solution file. You'll find it in the project directory. Enjoy exploring the solution! :smiley:
+If, for any reason, the download button doesn't work, you can still clone the repository using the normal method. Once you have the project on your local machine, navigate to the hotel solution file. You'll find it in the project directory. Enjoy exploring the solution! :smiley:
 
 ## Installation
 
